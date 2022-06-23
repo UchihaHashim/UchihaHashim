@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @UchihaHashim :)
+- 👀 I’m interested in making useful and fun stuff
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on future projects 
+- 📫 How to reach me : hashimmohammed@gmail.com
