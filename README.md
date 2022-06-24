@@ -2,14 +2,13 @@
    <center> 
  <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1> 
  <br> 
- <div align="center"> 
- <!-- <a href="https://discord.com/users/852761508811243541"> --> 
-    <img src="https://weheartit.com/entry/344968078"/> 
-   </a> 
+ <img src = "https://weheartit.com/entry/344968078" />
  </div> 
   <br> 
- <div align="center"> 
+ <div align="right"> 
+  <a>
  <!-- <img src="https://i.imgur.com/jx17oHT.gif"> --> 
+   </a>
        </div> 
  <div> 
  <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2> 
