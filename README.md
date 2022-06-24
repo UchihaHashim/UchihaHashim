@@ -8,8 +8,7 @@
    </a> 
  </div> 
   <br> 
- 
-     <div align="center"> 
+ <div align="center"> 
  <!-- <img src="https://i.imgur.com/jx17oHT.gif"> --> 
        </div> 
  <div> 
