@@ -27,7 +27,7 @@
  <b>Gender:</b> Male 🇮🇳
  </li> 
  <li> 
- <b>Hobbys:</b> Tech Stuff
+ <b>Hobbies:</b> Tech Stuff
  </li> 
  <br><br><br> 
  
